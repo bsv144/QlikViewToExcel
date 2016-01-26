@@ -1,0 +1,10 @@
+﻿Выполняется установка сборки 'C:\Test\WASP\WASP.dll'.
+Затронуты следующие параметры:
+   assemblypath = C:\Test\WASP\WASP.dll
+   logfile = C:\Test\WASP\WASP.InstallLog
+   logtoconsole = 
+Выполняется фиксация сборки 'C:\Test\WASP\WASP.dll'.
+Затронуты следующие параметры:
+   assemblypath = C:\Test\WASP\WASP.dll
+   logfile = C:\Test\WASP\WASP.InstallLog
+   logtoconsole = 
